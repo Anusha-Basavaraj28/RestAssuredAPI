@@ -1,0 +1,2 @@
+http://restapi.adequateshop.com/swagger/ui/index#/Customer
+
