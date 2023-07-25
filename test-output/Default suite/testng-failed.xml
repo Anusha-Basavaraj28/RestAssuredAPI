@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Day8.CreateUser">
+      <class name="Day9.SOAO_API_testing">
         <methods>
-          <include name="createUser"/>
+          <include name="soapAPIValidation"/>
         </methods>
-      </class> <!-- Day8.CreateUser -->
+      </class> <!-- Day9.SOAO_API_testing -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
